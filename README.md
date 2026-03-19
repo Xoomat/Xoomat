@@ -1,62 +1,69 @@
+<div align="center">
+
 # Xoomat
 
-```txt
-Game Developer • Unreal Engine • Systems & Atmosphere
-```
+Разработчик игр • Unreal Engine • Системный дизайн
+
+<img src="https://komarev.com/ghpvc/?username=Xoomat&style=flat-square&color=blue" />
+
+</div>
 
 ---
 
-## About
+## О себе
 
-I create not just games —
-I build **immersion and atmosphere**.
+Я создаю не просто игры —
+я создаю **атмосферу и ощущение присутствия**.
 
-* Game development since childhood
-* Unreal Engine (Blueprints, gameplay systems)
-* Deep system design and analysis
-* UI/UX, 3D, animation, sound
-* Focus on dark and atmospheric experiences
+Работаю с системами, механиками и визуальной подачей.
+Фокус — на глубине геймплея и иммерсивности.
 
 ---
 
-## Stack
+## Технологии
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40"/>
-  <img width="12"/>
+  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img width="12"/>
+  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-  <img width="12"/>
+  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40"/>
 </div>
 
 ---
 
-## Focus
+## Основные направления
 
-* Gameplay systems
-* Save/load architecture
-* Cinematic experience
-* Visual effects (UE5)
-* Weapon systems
+* Игровые механики и системы
+* Архитектура сохранений
+* Кинематографичный геймплей
+* Визуальные эффекты (UE5)
+* Системы оружия
 
 ---
 
-## Stats
+## Статистика
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Xoomat\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Xoomat&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoomat\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoomat&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Projects
+## Проекты
 
+```txt
+[ В РАЗРАБОТКЕ ]
 ```
-[ STATUS: IN DEVELOPMENT ]
-```
+
+---
+
+## Контакт
+
+Открыт для сотрудничества и интересных проектов.
