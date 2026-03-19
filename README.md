@@ -1,50 +1,62 @@
-# 🦊 Xoomat
+# Xoomat
 
-Разработчик игр
-
----
-
-## 🚀 Обо мне
-
-Я создаю не просто игры —
-я создаю **атмосферу и погружение**.
-
-* 🎮 В геймдеве с детства
-* ⚙️ Unreal Engine (Blueprints, системы)
-* 🧠 Глубокий анализ и продумка механик
-* 🎨 UI/UX, 3D, анимация, звук
-* 🌌 Люблю мрачные и атмосферные проекты
+```txt
+Game Developer • Unreal Engine • Systems & Atmosphere
+```
 
 ---
 
-## 🧰 Стек
+## About
+
+I create not just games —
+I build **immersion and atmosphere**.
+
+* Game development since childhood
+* Unreal Engine (Blueprints, gameplay systems)
+* Deep system design and analysis
+* UI/UX, 3D, animation, sound
+* Focus on dark and atmospheric experiences
+
+---
+
+## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40"/>
 </div>
 
 ---
 
-## 📊 Статистика
+## Focus
+
+* Gameplay systems
+* Save/load architecture
+* Cinematic experience
+* Visual effects (UE5)
+* Weapon systems
+
+---
+
+## Stats
 
 <div align="center">
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=Xoomat\&show_icons=true\&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Xoomat\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoomat\&layout=compact\&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoomat\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
 ---
 
-## 🔥 Проекты
+## Projects
 
-🚧 В разработке...
-
----
+```
+[ STATUS: IN DEVELOPMENT ]
+```
