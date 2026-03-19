@@ -1,9 +1,6 @@
 # 🦊 Xoomat
 
-> "Код — это не просто логика. Это атмосфера."
-
-🎮 Разработчик игр | 🧠 Аналитик | 🎨 Креативщик
-🦊 Unreal Engine | 🎤 Озвучка | 🎬 Истории
+Разработчик игр
 
 ---
 
@@ -34,39 +31,13 @@
 
 ---
 
-## 🎮 Чем занимаюсь
-
-* 🧩 Игровые механики и системы
-* 💾 Системы сохранений
-* 🎥 Кинематографичный геймплей
-* 👁️ Визуальные эффекты (UE5)
-* 🔫 Системы оружия
-
----
-
-## 🧠 Сейчас изучаю
-
-* Продвинутые системы UE5
-* Нарратив и подача истории
-* Гибрид реализма и аркады
-* Экспериментальные механики
-
----
-
-## 🌌 Философия
-
-> Хорошая игра — это не то, во что играют.
-> Это то, что **чувствуют**.
-
----
-
 ## 📊 Статистика
 
 <div align="center">
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Статистика](https://github-readme-stats.vercel.app/api?username=Xoomat\&show_icons=true\&theme=tokyonight)
 
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoomat\&layout=compact\&theme=tokyonight)
 
 </div>
 
@@ -77,15 +48,3 @@
 🚧 В разработке...
 
 ---
-
-## 📫 Связь
-
-* 💬 Открыт к сотрудничеству
-* 🎮 Геймдев / идеи / проекты
-
----
-
-## 🦊 Факт
-
-Я не просто делаю проекты.
-Я создаю **миры, в которых можно потеряться**.
